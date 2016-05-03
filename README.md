@@ -1,11 +1,10 @@
 == README
 
-# Ruby on Rails Tutorial: sample application
+# Ruby on Rails app: CBG Community
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is a draft for the
+[*CBG Community:
+by [Angel Reyes](http://www.chatterboxguru.com).
 
 
 Please feel free to use a different markup language if you do not plan to run
